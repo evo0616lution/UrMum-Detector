@@ -1,4 +1,4 @@
-import requsts
+import requests
 from time import sleep
 print("Welcome to UrMum Detector, coded by https://github.com/evo0616lution")
 sleep(1)
